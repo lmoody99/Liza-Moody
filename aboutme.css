@@ -17,3 +17,9 @@ p {
 p.error {
   text-color: white;
 }
+
+a {
+   width:160
+   height:160
+   style:float:right;border:0;
+}
